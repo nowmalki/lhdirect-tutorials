@@ -1,0 +1,72 @@
+2026-10-20 acad01 uploaded (exec 54c14aa5) — playlist pending
+acad01 mb41fH8KrZQ — in academy playlist ✓
+acad02 uploaded (exec 3dcf9735) — playlist pending
+acad02 ULYDF3hdXQ8 — in academy playlist ✓
+acad03 uploaded (exec 5551f720) — playlist pending
+acad03 LLgqZTY8G10 — in academy playlist ✓
+acad04 uploaded (exec 395a8695) — playlist pending
+acad04 whr6uiFQN6A — in academy playlist ✓
+acad05 uploaded (exec 12365a67) — playlist pending
+acad05 XpnoqBkQpAQ — in academy playlist ✓
+acad06 uploaded (exec d376aed8) — playlist pending
+acad06 PE5HS4vQBQA — in academy playlist ✓
+acad07 uploaded (exec 725dfe17) — playlist pending
+acad07 eRCzM6KCe3o — in academy playlist ✓
+acad08 uploaded (exec fa640ef4) — playlist pending
+acad08 pnwjwx6-2Kg — in academy playlist ✓
+ep20 uploaded (exec e42fcb6b) — playlist pending
+ep20 O0BgkQT2F-g — in beginners playlist ✓
+ep21 uploaded (exec 4d424751) — playlist pending
+ep21 mmskg7J4x4A — in beginners playlist ✓
+2026-10-20 ep22 blocked by daily cap — next run 2026-10-21T19:10Z
+2026-10-21 first upload 19:13Z. ep22 uploaded (exec 280e2ad1) — playlist pending
+ep22 2EgJ5WbwfAQ — in beginners playlist ✓ (publishedAt 20:44Z)
+ep23 uploaded (exec ebee55e8) — playlist pending
+ep23 NcI2cWbU8bk — in beginners playlist ✓
+ep24 uploaded (exec a7b67f7b) — playlist pending
+ep24 RDzRdicB5Gg — in beginners playlist ✓
+ep25 uploaded (exec a7237994) — playlist pending
+ep25 VeSg1q4tmaY — in beginners playlist ✓
+ep26 uploaded (exec ed7c4354) — playlist pending
+ep26 I7xoALrkL5M — in beginners playlist ✓
+ep27 uploaded (exec 9fbda242) — playlist pending
+ep27 z6TZtiyLUi0 — in beginners playlist ✓
+ep28 uploaded (exec ea7cb44c) — playlist pending
+ep28 AXK9JX3nw4Q — in beginners playlist ✓
+ep29 uploaded (exec 8714f8fa) — playlist pending
+ep29 XXWWYxJmQVE — in advanced playlist ✓
+ep30 uploaded (exec b980230d) — playlist pending
+ep30 2Lp8KqP5qu0 — in advanced playlist ✓ (NOTE: scenario 4985784 now writes to data store 97134, not 96716)
+ep31 uploaded (exec c9ecdfea) — playlist pending
+ep31 joj4G4Np99k — in advanced playlist ✓
+2026-10-22 ep32 blocked by daily cap — next run 2026-10-22T19:20Z
+2026-10-22 19:21Z ep32 still capped (rolling window; last batch spread 20:44–05:46Z) — next run 21:30Z
+2026-10-22 ~21:32Z ep32 uploaded (exec 23144862) — playlist pending (batch mode: playlist adds after uploads)
+ep33 uploaded (exec 8de9a8a3) — playlist pending
+ep34 uploaded (exec 45c3cf77) — playlist pending
+ep35 uploaded (exec b5714cda) — playlist pending
+ep36 uploaded (exec be601dc6) — playlist pending
+ep37 uploaded (exec 69e83836) — playlist pending
+ep38 uploaded (exec a522f7a5) — playlist pending
+ep39 uploaded (exec 2022b4f5) — playlist pending
+ep40 uploaded (exec a7c07f46) — playlist pending
+ep41 uploaded (exec f858e941) — playlist pending
+ep42 blocked by cap (frees ~21:45Z 10-23). IDs: ep32 un8I5KBji0M, ep33 _gxR7xqVgrs, ep34 aXMe1hWtZJs, ep35 i0Ia7hziCpk, ep36 RY4I486_V1I, ep37 8VqQVE-hwZQ, ep38 H2htomDcaBg, ep39 g79Kgz12VO0, ep40 p6BsDwdgt9w, ep41 stMzD5eRqzs — adding to advanced playlist in order
+advanced playlist: ep32-35 added
+advanced playlist: ep36-41 added
+advanced playlist verified 13 items (29-41) ✓. ep42 uploaded (exec e8d5f8f5) — playlist pending
+ep42 EUbk0YsnJeg — in advanced playlist ✓ — ALL 42 + 8 ACADEMY LIVE
+ep04 FIXED uploaded (exec 8a5d6f74) — playlist swap pending
+ep08 FIXED uploaded (exec 90cde3ba) — playlist swap pending
+ep09 FIXED uploaded (exec 5ed5f496) — playlist swap pending
+FIXED IDs: ep04 XveQ4KTzBpw, ep08 Ti3fgOnl56o, ep09 8w5yx36IMqY. Old beginners playlist item ids: ep4 UExROHdIUURHT3pCNC41MjE1MkI0OTQ2QzJGNzNG, ep8 UExROHdIUURHT3pCNC5DQUNERDQ2NkIzRUQxNTY1, ep9 UExROHdIUURHT3pCNC45NDk1REZENzhEMzU5MDQz
+beginners: ep04 swapped ✓
+beginners: ep08 swapped ✓
+beginners: ep09 swapped ✓ — verifying
+2026-10-24 publish-all backup run (exec fa948ed8) ✓. Beginners playlist verified 28 items, fixed 4/8/9 in place. Upload task disabled. DONE — awaiting owner decision on old jp7X6L8vXyU / H4Sg_4ZdYZI / VRZk44QfO6w + test dup dytvHGvoH4M
+2026-10-24 owner approved HIDE: jp7X6L8vXyU, H4Sg_4ZdYZI, VRZk44QfO6w, dytvHGvoH4M set to unlisted ✓ (verified). Scenario 4983644 now excludes these IDs.
+2026-10-24 hidden old videos now carry 'updated version' links at the top of their descriptions (→ XveQ4KTzBpw, Ti3fgOnl56o, 8w5yx36IMqY, 1mUrTVqMGu8) ✓ verified
+2026-10-24 SEO/GEO pass: all 50 videos retitled keyword-first + rich descriptions (chapters from timeline.json, FAQ, links) + tags via Make 4997228 from seo/metadata.json @39d698e ✓ verified.
+Captions: Make 4997231 batch uploader. batch1 (15 incl ep14) ✓ serving. batch2/3 scheduled 10-25/10-26 07:30Z (quota 400u each).
+Publish-all 4983644 filter updated to "| LHDIRECT" / "| אקדמיית מכירות" (old IDs excluded).
+2026-10-25 captions batch2 (18) ✓ verified on YouTube (last item has standard he track). 33/50 done. batch3 scheduled 10-26 07:30Z.
